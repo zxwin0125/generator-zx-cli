@@ -1,0 +1,15 @@
+{
+  "name": "generator-zx-cli",
+  "version": "1.0.0",
+  "description": "scaffolding built by Yeoman",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "zxwin0125",
+  "license": "ISC",
+  "dependencies": {
+    "yeoman-generator": "^7.3.3"
+  },
+  "type": "module"
+}
