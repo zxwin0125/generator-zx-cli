@@ -29,7 +29,6 @@ export default class extends Generator {
       "vite.config.ts",
       "vitest.config.ts",
       ".vscode/extensions.json",
-      ".vscode/settings.json",
       "public/favicon.ico",
       "src/App.vue",
       "src/main.ts",
