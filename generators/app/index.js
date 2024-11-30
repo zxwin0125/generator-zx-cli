@@ -17,7 +17,6 @@ export default class extends Generator {
   writing() {
     // 把每一个文件都通过模板转换到目标路径
     const templates = [
-      ".gitignore",
       "env.d.ts",
       "index.html",
       "package.json",
