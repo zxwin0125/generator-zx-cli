@@ -1,6 +1,6 @@
 {
   "name": "generator-zx-cli",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "scaffolding built by Yeoman",
   "main": "index.js",
   "scripts": {
