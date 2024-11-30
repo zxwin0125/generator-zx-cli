@@ -13,7 +13,9 @@
   },
   "type": "module",
   "files": [
+    "generators/app/templates/.gitignore",
     "generators/",
+    ".gitignore",
     "LICENSE",
     "package.json",
     "README.md"
