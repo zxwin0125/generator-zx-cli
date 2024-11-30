@@ -1,6 +1,6 @@
 {
   "name": "generator-zx-cli",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "scaffolding built by Yeoman",
   "main": "index.js",
   "scripts": {
@@ -11,5 +11,11 @@
   "dependencies": {
     "yeoman-generator": "^7.3.3"
   },
-  "type": "module"
+  "type": "module",
+  "files": [
+    "generators/",
+    "LICENSE",
+    "package.json",
+    "README.md"
+  ]
 }
